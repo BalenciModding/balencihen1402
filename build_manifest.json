@@ -1,0 +1,53 @@
+{
+  "target": "PS4 14.02",
+  "status": "compiled; home-screen restoration requires console verification",
+  "hen_commit": "8c62f6628827055df0dfece1c4d14e045761288b",
+  "plugins_commit": "49534177d69d17609bcc09cd185c88df42fed8b5",
+  "sdk_commit": "fd4f7299d1da5f5601c164a02b6d6d019ac8630a",
+  "files": {
+    "site/balencihen.bin": {
+      "bytes": 533984,
+      "sha256": "b709d476c331e7d38975a5f39f1cf9457865c46cd3d51583e2be31a2c97950fc"
+    },
+    "source/plugins/bin/plugins/prx/plugin_server.prx": {
+      "bytes": 76800,
+      "sha256": "adc47e1e243a2741795c1f770d98fbdb08822f44e89107ebeb45641177039235"
+    },
+    "source/plugins/bin/plugins/prx/plugin_bootloader.prx": {
+      "bytes": 54128,
+      "sha256": "d5080f0689259ec28c2517229ba9fd4ff7f7fcf6477f83140f8fc10b0ba65ba6"
+    },
+    "source/plugins/bin/plugins/prx/plugin_shellcore.prx": {
+      "bytes": 88288,
+      "sha256": "93f695d1a6835343610aae80dcf2f49c1409874fa2952ebb9c67dd174f1237b1"
+    },
+    "source/plugins/bin/plugins/prx/plugin_example.prx": {
+      "bytes": 162144,
+      "sha256": "04a273877ae7863263d0998a9c7b7ce29ef51d94a52a28c8ff3df66b6d4a40c0"
+    },
+    "source/plugins/bin/plugins/prx/plugin_mono.prx": {
+      "bytes": 175600,
+      "sha256": "313412d62f9781d0aade49f77c8261a1ce8a91502de13c1e05f79f853a411d03"
+    },
+    "source/plugins/bin/plugins/prx/plugin_loader.prx": {
+      "bytes": 54944,
+      "sha256": "3d3250891c7a05e44f999dae602bf945bad8392e5da63c0b5349a9735d2a0757"
+    }
+  },
+  "plugin_directory": "/data/BalenciHEN/plugins",
+  "plugin_manifest": "/data/BalenciHEN/plugins.ini",
+  "variant": "BalenciHEN 1.0.2; cheat integration removed",
+  "fortnite_reset": {
+    "button": "Fortnite Unbanner",
+    "scope": "exact two local files moved into recovery folder",
+    "ban_removal_verified": false,
+    "native_tests": 9
+  },
+  "app_version": "1.0.2",
+  "features_removed": [
+    "cheat menu",
+    "cheat engine",
+    "cheat database",
+    "database uploader"
+  ]
+}
