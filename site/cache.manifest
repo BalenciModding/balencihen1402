@@ -1,0 +1,20 @@
+CACHE MANIFEST
+# BalenciHEN local host BalenciHEN-1.0.2-no-cheats
+
+CACHE:
+./
+./index.html
+./cache.html
+./launch.html
+./launch.html?mode=balencihen&afterglow=run&fw=1402
+./balencihen.bin
+./balenci-logo.jpg
+./chain/jb.js
+./chain/core.js
+./chain/mem.js
+./chain/int64.js
+./chain/ps4_offsets.js
+./chain/afterglow.js
+
+NETWORK:
+*

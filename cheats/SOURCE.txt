@@ -1,0 +1,3 @@
+Source: https://github.com/GoldHEN/GoldHEN_Cheat_Repository
+Revision: acba322df33996d779599306d586c420144e55ad
+JSON files preserved unchanged, including cheat-author credits. Repository license and README included. BalenciHEN supports a subset, not all formats.
